@@ -1,0 +1,5 @@
+num_int = int(5.7)
+print(num_int, type(num_int))
+num_float = float("3.14")
+print(num_float, type(num_float))
+print(bool(1), type(bool(1)))
